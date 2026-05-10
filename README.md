@@ -13,7 +13,7 @@
 ─────────────────────────────────────────────────────────
 ```
 
-→ **Public Archive:** [ordo-noctis/archive](./archive)
+→ **Public Archive:** [ordo-noctis/archive](https://github.com/ordo-noctis/archive)
 → **Conduct Disclosure:** see [§ 00 of the Archive](https://ordo-noctis.github.io/archive/)
 
 ## Engagement
